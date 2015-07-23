@@ -3,6 +3,9 @@
 Description<br>
 
 ---------------------------------------------------------------------------------------------------------------
+**[BioNet Web Services](https://data.bionet.nsw.gov.au/biosvcapp/odata/)**<br>
+An Open data initative from the Office of Envrionment and Heritage making biodiveristy data held by the state of NSW in Australia open via an Odata v4.0 web service.
+
 **[Cambridge Weather; Pyslet demo service](http://odata.pyslet.org/weather)**<br>
 Exposes data from the University of Cambridge DTG group’s weather station (operational since 1995) via OData. Also serves as a demo feed for the Pyslet Python package’s OData server module.
 
