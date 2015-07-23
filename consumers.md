@@ -6,6 +6,9 @@ Description<br>
 **[ADO.NET Driver](http://www.cdata.com/drivers/odata/ado/)**<br>
 Read, Write, and Update OData services through ADO.NET.  The OData Data Provider makes OData Services look like SQL tables in your applications. With the ADO.NET Provider developers can simply DataBind to data, just like using SQL Server.
 
+**[Appache Olingo Library] (https://olingo.apache.org/doc/odata4/)**<br>
+Olingo is a java based framework that implements the OData specification. Its provides support for its latest version, the version 4, for both client and server sides.
+
 **[BOARD](http://www.board.com/)**<br>
 Board (www.board.com) is a platform for Business Intelligence, Performance Management and Predictive Analytics. It comprises an in-Memory multidimensional database which can be populated with OData feeds from on-premise and cloud based data sources.
 
